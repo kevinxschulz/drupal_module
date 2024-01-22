@@ -1,0 +1,7 @@
+my_api_module.getFact:
+  path: '/get-cat-facts'
+  defaults:
+    _controller: 'Drupal\my_api_module\Controller\APIController::getFact'
+    _title: 'Cat Facts'
+  requirements: 
+    _permission: 'access content'

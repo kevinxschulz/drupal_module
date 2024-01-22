@@ -1,0 +1,3 @@
+my_api_module.getFact:
+  title: 'Cat Facts'
+  url: 'internal:/get-cat-facts'

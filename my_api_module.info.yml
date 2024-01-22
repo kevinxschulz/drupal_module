@@ -1,0 +1,5 @@
+name: Cat Facts Module
+description: Dieses Modul gibt Fakten über Katzen (in Englisch)
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
