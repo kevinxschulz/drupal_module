@@ -1,5 +1,4 @@
-# Drupal-9-Hello-World-Module
-Simple Drupal 9 Custom module which create a 'Hello world!' page in Drupal 9. 
-For more details, visit my blog: 
-https://theonlytutorials.com/drupal-9-custom-module-hello-world-module-in-drupal-9/
+# Drupal-9-Cat-Fact-Module
+Simple Drupal 9 Custom module which displays random cat facts in Drupal 9. 
+
 
